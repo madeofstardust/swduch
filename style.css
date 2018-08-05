@@ -1,0 +1,77 @@
+
+.menu {
+	margin-bottom: 30px;
+}
+ #navbar-example2 {
+ 	position: fixed;
+ 	top: 0;
+    width: 100%;
+    z-index:1;
+
+ }
+
+.jumbotron {
+	
+	background-image: url(https://images.unsplash.com/photo-1421081177127-339f586c9b49?ixlib=rb-0.3.5&s=84615d9da95988d4c1e22696b233c011&auto=format&fit=crop&w=1049&q=80);
+	
+	background-size: cover;
+ 	min-height: 90%;
+
+}
+
+.container {
+	background-color: black;
+	padding:10px;
+	margin-top: px;
+	margin-left: 1%;
+	text-align: left;
+	opacity: 0.4;
+}
+
+.display-4 {
+	padding-top: 2%;
+	color: white;
+	font-weight: 320;
+	
+}
+
+.content {
+margin: 2%;
+float:center;
+display: flex;
+flex-wrap: wrap;
+
+
+}
+
+
+}
+.text {
+	margin: 20px;
+	padding: 3px;
+	}
+
+.card{
+	margin:2%;
+	min-width: 280px;
+	max-width: 30%;
+	position: relative;
+}
+
+#wiekszy {
+	
+	max-width:100%;
+}
+
+p {
+	text-align: center;
+	
+}
+ul {
+	text-align: center;
+	list-style-type: none;
+	}
+.footer {
+	font-size: 12px;
+	
+}
